@@ -4,7 +4,7 @@ This file tracks the core concepts covered during Week 5 of my Data Analytics pr
 
 ---
 
-## 🗂️ 1. Data Types, Sorting & Filtering (Lect. 13)
+## 🗂️ 1. Data Types, Sorting & Filtering
 Understanding data formats and organizing data efficiently:
 * **Alignment Rules:** Text sits on the Left; Numbers and Dates sit on the Right by default[cite: 6].
 * **Formatting Truth:** Formatting changes display/look, NOT the actual underlying value (as seen in the Formula Bar)[cite: 6].
@@ -13,7 +13,7 @@ Understanding data formats and organizing data efficiently:
 
 ---
 
-## 🧮 2. Basic Formulas & Arithmetic Functions (Lect. 14)
+## 🧮 2. Basic Formulas & Arithmetic Functions
 Writing calculations and leveraging core statistical functions:
 * **Formula Syntax:** Every formula MUST start with an `=` sign (e.g., `=A1+B1`)[cite: 5].
 * **Operators & BODMAS:** Uses `+`, `-`, `*` (multiply), `/` (divide), and `^` (caret for power)[cite: 5]. Follows BODMAS bracket precedence[cite: 5].
@@ -27,7 +27,7 @@ Writing calculations and leveraging core statistical functions:
 
 ---
 
-## ✂️ 3. Text Functions & Data Cleaning (Lect. 15)
+## ✂️ 3. Text Functions & Data Cleaning
 Cleaning messy strings, combining columns, and extracting sub-strings:
 * **Combining Text:**
   * Using `&` operator: `=A2 & " " & B2`[cite: 4].
@@ -45,4 +45,3 @@ Cleaning messy strings, combining columns, and extracting sub-strings:
 * **No-Formula Tools:** `Flash Fill` (`Ctrl + E`) and `Text to Columns` on the Data tab[cite: 4].
 
 ---
-*Notes compiled from live interactive lectures (Lectures 13, 14, and 15 by Dr. Nishtha Jain).*
