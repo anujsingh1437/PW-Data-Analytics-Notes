@@ -28,4 +28,3 @@ Practiced foundational data manipulation rules to ensure clean workflows[cite: 1
   * **Fill Handle:** Dragging the bottom-right square corner of a cell to copy data or trigger AutoFill series (like months/days)[cite: 1].
 
 ---
-*Notes compiled from live interactive lectures (Lectures 10, 11, and 12).*
